@@ -1,0 +1,4 @@
+#Tue Oct 09 12:21:41 IDT 2018
+base.0=D\:\\development\\HUDHelperService1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\41
+path.0=classes.dex
+renamed.0=classes.dex

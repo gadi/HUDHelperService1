@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:2:1-60:12
+ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:2:1-67:12
 	package
 		ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml
@@ -56,7 +56,7 @@ ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:14:
 	android:name
 		ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:14:22-78
 application
-ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:15:5-58:19
+ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:15:5-65:19
 	android:label
 		ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:19:9-41
 	android:icon
@@ -117,3 +117,13 @@ action#android.intent.action.BOOT_COMPLETED
 ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:50:11-72
 	android:name
 		ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:50:19-70
+receiver#cn.sinjet.receiver.NaviHelperCommandReceiver
+ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:60:9-64:20
+	android:name
+		ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:60:19-78
+intent-filter#com.mgroup.NAVI_HELPER_COMMAND
+ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:61:13-63:29
+action#com.mgroup.NAVI_HELPER_COMMAND
+ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:62:17-73
+	android:name
+		ADDED from D:\development\HUDHelperService1\app\src\main\AndroidManifest.xml:62:25-70

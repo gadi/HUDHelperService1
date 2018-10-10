@@ -55,6 +55,13 @@
                 android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
                 android:resource="@xml/device_filter" />
 		</receiver>
+
+
+        <receiver android:name="cn.sinjet.receiver.NaviHelperCommandReceiver">
+            <intent-filter>
+                <action android:name="com.mgroup.NAVI_HELPER_COMMAND" />
+            </intent-filter>
+        </receiver>
     </application>
  
 </manifest>
